@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_lable">Send message</string>
+    <string name="Welcome_message">Welcom to my new shit</string>
+</resources>
